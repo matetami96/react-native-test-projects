@@ -34,10 +34,10 @@
 			[
 				"react-native-fbsdk-next",
 				{
-					"appID": "8845173102164960",
-					"clientToken": "2bb53b06edb3ca9c0679af98d94bb852",
+					"appID": "8845173102164960--remove-this-code-cccadasdadadadadadadadada",
+					"clientToken": "2bb53b06edb3ca9c0679af98d94bb852--remove-this-code-cccadasdadadadadadadadada",
 					"displayName": "Login Tutorial",
-					"scheme": "fb8845173102164960",
+					"scheme": "fb8845173102164960--remove-this-code-cccadasdadadadadadadadada",
 					"advertiserIDCollectionEnabled": false,
 					"autoLogAppEventsEnabled": false,
 					"isAutoInitEnabled": true,
