@@ -1,0 +1,42 @@
+{
+	"expo": {
+		"name": "3drender",
+		"slug": "3drender",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"userInterfaceStyle": "light",
+		"assetBundlePatterns": ["**/*"],
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/adaptive-icon.png",
+				"backgroundColor": "#ffffff"
+			},
+			"package": "com.threedmodel.render"
+		},
+		"web": {
+			"favicon": "./assets/favicon.png",
+			"build": {
+				"babel": {
+					"include": ["expo-three"]
+				}
+			},
+			"experimental": {
+				"webgl": true
+			}
+		},
+		"extra": {
+			"eas": {
+				"projectId": "6a5ba450-ab76-40d3-b473-17bef8df481f"
+			}
+		}
+	}
+}
